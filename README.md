@@ -1,3 +1,5 @@
+> **Archived 2026-09-04 (RFC 0038 §9 / ADR-020).** This repository is read-only. The cartridge now lives in [`https://github.com/madfam-org/solid-hyperobjects/tree/main/scara-robotics`](https://github.com/madfam-org/solid-hyperobjects/tree/main/scara-robotics) — same files, full history absorbed. Open issues and pull requests there.
+
 # Chronos-SCARA (scara-robotics)
 
 **Status: research-stage.** This is a parametric research project, not a
